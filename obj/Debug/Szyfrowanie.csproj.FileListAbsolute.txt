@@ -1,0 +1,6 @@
+D:\Repozytoria\Backend_WSEI\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe.config
+D:\Repozytoria\Backend_WSEI\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe
+D:\Repozytoria\Backend_WSEI\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.pdb
+D:\Repozytoria\Backend_WSEI\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csprojAssemblyReference.cache
+D:\Repozytoria\Backend_WSEI\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.exe
+D:\Repozytoria\Backend_WSEI\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
